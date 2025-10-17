@@ -1,4 +1,4 @@
-Fortress Auth — Secure Authentication System (.NET 8)
+🛡️ Fortress Auth — Secure Authentication System (.NET 8)
 Tech Stack: .NET 8 • C# • EF Core (SQLite) • BCrypt • JWT (RS256) • OAuth2-style Tokens • TOTP MFA • Rate Limiting • HSTS & Security Headers • Docker Support
 ⚙️ Local Setup
 # 1️⃣ Restore dependencies
